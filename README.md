@@ -1,5 +1,9 @@
 ## Olá eu sou o Luiz Guilherme, sou desenvolvedor full-stack e faço trabalhos como cientista de dados!
-
+<div>
+  <a href="https://github.com/luizaao">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=luizaao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaao&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
