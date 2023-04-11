@@ -1,4 +1,4 @@
-## Olá eu sou o Luiz Guilherme, sou desenvolvedor full-stack e faço trabalhos como cientista de dados!
+## Olá eu sou o Luiz Guilherme, sou Dev Full-Stack & Data Scientist!
 <div>
   <a href="https://github.com/luizaao">
   <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=luizaao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
